@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color:turquoise;
+}
+img{
+    width: 350px;
+}
+#description{
+   font-size: 50px; 
+}
